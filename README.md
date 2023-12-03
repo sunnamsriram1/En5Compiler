@@ -12,3 +12,10 @@ git clone https://github.com/sunnamsriram1/En5Compiler.git
 cd En5Compiler
 python3 En5Tool_en.py
 ```
+### Blog:
+```
+https://teletechstore.blogspot.com](https://sprogram001zone.blogspot.com/?m=1
+```
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/Sunnam01ram)
+
